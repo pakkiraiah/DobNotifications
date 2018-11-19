@@ -1,0 +1,34 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.home.dob.notifications"
+    },
+    "jhipsterVersion": "5.6.1",
+    "applicationType": "monolith",
+    "baseName": "DobNotifications",
+    "packageName": "com.home.dob.notifications",
+    "packageFolder": "com/home/dob/notifications",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "ODRlYjQzY2QxNmFhNDk2MTc5ZmNiYzVkMmViY2FhM2ZjOWUzOTZlMWUyZDI4ODQ3N2Y3Yzk5OGExMjM2MTdkOWJjMjBhNjQ3NjViYmNmMTRmNTg3NWU1ZDVkNWFmNjY0YTE3Zjg2YTM0NWJiMWUxZmVkYzMzMzBjZmE1OTBjMDE=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
